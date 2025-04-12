@@ -1,4 +1,4 @@
-# README for Instagram Account Classification Project
+# Instagram Account Classification Project
 
 ## Project Overview
 
